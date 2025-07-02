@@ -22,6 +22,8 @@ var/
 wheels/
 share/python-wheels/
 *.egg-info/
+.idea/
+test_images/
 .installed.cfg
 *.egg
 MANIFEST
@@ -137,7 +139,7 @@ celerybeat.pid
 # Environments
 .env
 .envrc
-.venv
+venv
 env/
 venv/
 ENV/
